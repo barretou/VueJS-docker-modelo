@@ -5,9 +5,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development (it starts with docker)
 ```
 npm run serve
+```
+
+### Compiles and hot-reloads for development (it starts with vue-cli serve)
+```
+npm run dev
 ```
 
 ### Compiles and minifies for production
